@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedanti Bhoyar</h1>
-<h3 align="center">I am a 𝐅𝐢𝐧𝐚𝐥 𝐲𝐞𝐚𝐫 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 at Dr. Babasaheb Ambedkar Technological University,Lonere (India).I am a Coding Enthusiast with strong knowledge of 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬,Skilled in 𝐉𝐚𝐯𝐚,𝐀𝐧𝐝𝐫𝐨𝐢𝐝 & having extensive experience in 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠.I have good communication and Leadership skills.</h3>
+<h3 align="center">My name is Vedanti, and I’m a computer science student at Dr. Babasaheb Ambedkar Technological University,  Lonere (India). I have strong knowledge of Data Structure and Algorithms,Skilled in Java and Android & having extensive experience in Competitive Programming.
+I’m interested in the field because it allows me to apply my math, science, and programming knowledge to solve exciting and valuable problems.
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
