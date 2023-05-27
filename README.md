@@ -30,7 +30,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vedantibhoyar&show_icons=true&theme=dark&locale=en" alt="vedantibhoyar" /></p>
 
-<p><img align="left"src="https://github-readme-streak-stats.herokuapp.com/?user=vedantibhoyar&theme=dark" alt="vedantibhoyar" /></p>
+<p><img align="right"src="https://github-readme-streak-stats.herokuapp.com/?user=vedantibhoyar&theme=dark" alt="vedantibhoyar" /></p>
 
-<p><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantibhoyar&show_icons=true&theme=dark&locale=en&layout=compact" alt="vedantibhoyar" /></p>
+&nbsp &nbsp
+<p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantibhoyar&show_icons=true&theme=dark&locale=en&layout=compact" alt="vedantibhoyar" /></p>
 
