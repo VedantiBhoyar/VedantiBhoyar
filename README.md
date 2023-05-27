@@ -25,9 +25,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vedantibhoyar&show_icons=true&theme=dark&locale=en" alt="vedantibhoyar" /></p>
 <div>
-  <p class="exampleText"><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=vedantibhoyar&theme=dark" alt="vedantibhoyar" /></p>
+  <p class="ex1"><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=vedantibhoyar&theme=dark" alt="vedantibhoyar" /></p>
 </div>
-
+p.ex1 {
+  padding-top: 25px;
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
