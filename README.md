@@ -27,9 +27,11 @@
 <div>
   <p class="ex1"><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=vedantibhoyar&theme=dark" alt="vedantibhoyar" /></p>
 </div>
+<style>
 p.ex1 {
   padding-top: 25px;
 }
+  </style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
