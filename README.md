@@ -2,6 +2,8 @@
 <h5 align="center">My name is Vedanti, and I’m a computer science student at Dr. Babasaheb Ambedkar Technological University, Lonere (India). I have strong knowledge of Data Structure and Algorithms,Skilled in Java and Android & having extensive experience in Competitive Programming.I’m interested in the field because it allows me to apply my math, science, and programming knowledge to solve exciting and valuable problems.
 </h5>
 
+
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 •🔭 I’m currently looking for opportunities in a Software Development or Data Structure and Algorithms
