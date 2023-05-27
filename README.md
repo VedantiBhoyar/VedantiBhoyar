@@ -1,4 +1,5 @@
-![computer](https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/eae3d8a1-7dc8-46e3-93af-2eae3b6f1346)
+
+![My project](https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/0ca33b28-fc37-4cae-9936-7b5da4eb4f02)
 
 
 <h1 align="center">Hi 👋, I'm Vedanti Bhoyar</h1>
