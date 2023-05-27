@@ -3,17 +3,17 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-.🔭 I’m currently looking for opportunities in a Software Development or Data Structure and Algorithms
+•🔭 I’m currently looking for opportunities in a Software Development or Data Structure and Algorithms
 
-.🌱 I’m currently learning Android App Development
+•🌱 I’m currently learning Android App Development
 
-.🔭 I’m currently working on Competitive Programming
+•🔭 I’m currently working on Competitive Programming
 
-.🎯 Goal : To be a better Developer
+•🎯 Goal : To be a better Developer
 
-.📫 How to reach me: **https://www.linkedin.com/in/vedanti-bhoyar/,bhoyar.veda@gmail.com**
+•📫 How to reach me: **https://www.linkedin.com/in/vedanti-bhoyar/,bhoyar.veda@gmail.com**
 
-. 💌 Fun Facts: **𝕴 𝖑𝖔𝖛𝖊 𝖙𝖔 𝖙𝖗𝖆𝖛𝖊𝖑 & 𝕰𝖝𝖕𝖑𝖔𝖗𝖊 𝖓𝖊𝖜 𝖕𝖑𝖆𝖈𝖊𝖘**
+• 💌 Fun Facts: **I Love To Travel & Explore New Places**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
