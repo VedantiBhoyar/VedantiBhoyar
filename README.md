@@ -49,4 +49,5 @@
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vedantibhoyar&label=Profile%20views&color=0e75b6&style=flat-square" alt="vedantibhoyar" /> </p>
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+<p><img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&amp;repo=github-visitors-badge&amp;countColor=%0e75b6" alt=""></p>
+
