@@ -1,8 +1,5 @@
 
-
-
-
-![github-header-image (1)](https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/d3dee75e-91ba-4aa0-9514-86eceffc6f5c)
+![github-header-image](https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/7dd45f0a-4040-40f1-aa62-7847ae312c53)
 
 
 <h4>My name is Vedanti, and I’m a computer science student at Dr. Babasaheb Ambedkar Technological University, Lonere (India). I have strong knowledge of Data Structure and Algorithms,Skilled in Java and Android & having extensive experience in Competitive Programming</h4>  
