@@ -17,7 +17,7 @@
 •📫 How to reach me: **https://www.linkedin.com/in/vedanti-bhoyar/,bhoyar.veda@gmail.com**
 
 • 💌 Fun Facts: **I Love To Travel & Explore New Places**
-<hr>
+----
 
 
 <h3 align="left">&nbsp;Languages and Tools:</h3>
