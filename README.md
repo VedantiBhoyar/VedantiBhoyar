@@ -4,7 +4,7 @@
 
 #
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 •🔭 I’m currently looking for opportunities in a Software Development or Data Structure and Algorithms
 
