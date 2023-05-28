@@ -3,7 +3,7 @@
 
 #
 
-
+<h1>Hello Aliens!</h1>
 <h4>My name is Vedanti, and I’m a computer science student at Dr. Babasaheb Ambedkar Technological University, Lonere (India). I have strong knowledge of Data Structure and Algorithms,Skilled in Java and Android & having extensive experience in Competitive Programming</h4>  
 
 #
@@ -18,7 +18,7 @@
 
 •🎯 Goal : To be a better Developer
 
-•📫 How to reach me: 
+•📫 How to reach me: <br>
 • https://www.linkedin.com/in/vedanti-bhoyar/<br>
 • bhoyar.veda@gmail.com<br>
 • bhoyarvedanti3@gmail.com<br>
