@@ -49,6 +49,6 @@
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vedantibhoyar&label=Profile%20views&color=0e75b6&style=flat-square" alt="vedantibhoyar" /> </p>
-<p><img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&amp;repo=github-visitors-badge&amp;countColor=%0e75b6" alt=""></p>
+<p align="right"><img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&amp;repo=github-visitors-badge&amp;countColor=%0e75b6" alt=""></p>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FVedantiBhoyar"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVedantiBhoyar&label=VISITORS&countColor=%230e75b6" /></a>
 
