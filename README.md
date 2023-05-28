@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-•🔭 #I’m currently looking for opportunities in a Software Development or Data Structure and Algorithms
+•🔭 I’m currently looking for opportunities in a Software Development or Data Structure and Algorithms
 
 •🌱 I’m currently learning Android App Development
 
@@ -17,6 +17,7 @@
 •📫 How to reach me: **https://www.linkedin.com/in/vedanti-bhoyar/,bhoyar.veda@gmail.com**
 
 • 💌 Fun Facts: **I Love To Travel & Explore New Places**
+<hr>
 
 
 <h3 align="left">&nbsp;Languages and Tools:</h3>
