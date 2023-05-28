@@ -8,6 +8,7 @@
 
 #
 
+<h3 align="left">&nbsp;About Me:</h3>
 
 •🔭 I’m currently looking for opportunities in a Software Development or Data Structure and Algorithms
 
