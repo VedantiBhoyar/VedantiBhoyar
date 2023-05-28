@@ -32,6 +32,7 @@
 #
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantibhoyar&theme=dark" alt="vedantibhoyar" /></p>
 
+#
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vedanti-bhoyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedanti-bhoyar" height="30" width="40" /></a>
