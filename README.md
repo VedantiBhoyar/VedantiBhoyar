@@ -1,4 +1,5 @@
-![Screenshot (50) (1)](https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/9c80559f-f658-4f18-a2bb-71c9b2e98125)
+
+![Screenshot (50) (1)](https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/f554b7e6-df3e-415c-bc9f-bfc2260d9a76)
 
 
 <h1 align="center">Hi 👋, I'm Vedanti Bhoyar</h1>
