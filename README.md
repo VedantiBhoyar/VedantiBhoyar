@@ -10,7 +10,7 @@
 
 <h3 align="left">&nbsp;About Me:</h3>
 
-•🔭 I’m currently looking for opportunities in a Software Development/Java Development/Android Development
+•🔭 I’m currently looking for opportunities in a Software Development / Java Development / Android Development
 
 •🌱 I’m currently learning Android App Development
 
