@@ -3,7 +3,7 @@
 
 #
 
-<h2>Hello Aliens!</h2>
+<h2>Hello Aliens!👋</h2>
 <h4>My name is Vedanti, and I’m a computer science student at Dr. Babasaheb Ambedkar Technological University, Lonere (India). I have strong knowledge of Data Structure and Algorithms,Skilled in Java and Android & having extensive experience in Competitive Programming</h4>  
 
 #
