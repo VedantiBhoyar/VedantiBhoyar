@@ -18,7 +18,10 @@
 
 •🎯 Goal : To be a better Developer
 
-•📫 How to reach me: **https://www.linkedin.com/in/vedanti-bhoyar/,bhoyar.veda@gmail.com**
+•📫 How to reach me: 
+• https://www.linkedin.com/in/vedanti-bhoyar/
+• bhoyar.veda@gmail.com
+• bhoyarvedanti3@gmail.com
 
 • 💌 Fun Facts: **I Love To Travel & Explore New Places**
 
