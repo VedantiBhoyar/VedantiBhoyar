@@ -49,4 +49,4 @@
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vedantibhoyar&label=Profile%20views&color=0e75b6&style=flat-square" alt="vedantibhoyar" /> </p>
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
