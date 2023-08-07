@@ -52,6 +52,6 @@ I'm a passionate and ambitious computer science graduate, eager to make a mark i
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vedantibhoyar&label=Profile%20views&color=0e75b6&style=flat-square" alt="vedantibhoyar" /> </p>
-![LeetCode](https://img.shields.io/badge/dynamic/json?color=success&label=Solved&query=%24.solved&url=https%3A%2F%2Fleetcode.com%2Fapi%2Fuser_stats%2Fvedantibhoyar)
+<p>![LeetCode](https://img.shields.io/badge/dynamic/json?color=success&label=Solved&query=%24.solved&url=https%3A%2F%2Fleetcode.com%2Fapi%2Fuser_stats%2Fhttps://leetcode.com/vedantibhoyar/)</p>
 
 
