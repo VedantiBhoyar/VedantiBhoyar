@@ -1,6 +1,6 @@
 # <p align="center">![github-header-image](https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/7dd45f0a-4040-40f1-aa62-7847ae312c53)</p>
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= Hello Aliens!%F0%9F%91%8B" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Aliens!%F0%9F%91%8B" alt="Typing SVG" /></a></h2>
 
 <h3 align="center">Welcome to my GitHub! 🎓👋</h3>
 <p align="center">I'm a passionate and ambitious computer science graduate, eager to make a mark in the world of software development. Proficient in Java and Android, I've honed my skills through academic projects and personal endeavors. As I embark on my professional journey, I'm actively seeking exciting opportunities to contribute my expertise and collaborate on innovative projects. Let's connect and create something awesome together! 🚀💻 #Java #Android #SoftwareDeveloper #OpenToWork</p>
