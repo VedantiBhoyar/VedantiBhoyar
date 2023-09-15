@@ -1,5 +1,5 @@
 
-<img src="https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/337071f9-6e59-4469-afc8-b911d664a4e7"  width="100" height="100">
+<img src="https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/337071f9-6e59-4469-afc8-b911d664a4e7"  width="800" height="100">
 
 
 
