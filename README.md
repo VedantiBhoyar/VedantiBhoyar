@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/VedantiBhoyar/VedantiBhoyar/blob/assets/71519458/7dd45f0a-4040-40f1-aa62-7847ae312c53/github-header-image.png" alt="GitHub Header Image">
-</p>
+
+"https://github.com/VedantiBhoyar/VedantiBhoyar/blob/assets/71519458/7dd45f0a-4040-40f1-aa62-7847ae312c53/github-header-image.png" 
+
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
