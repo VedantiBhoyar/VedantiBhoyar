@@ -1,5 +1,6 @@
 
-![image](https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/5ed54f06-4616-480d-996d-dff693daf94f)
+![image](https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/337071f9-6e59-4469-afc8-b911d664a4e7)
+
 
 
 <h2 align="center">
