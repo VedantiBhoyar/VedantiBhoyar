@@ -1,8 +1,6 @@
 
 <img src="https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/43485419-778b-449c-b07a-1062cdba7d7a"  width="1200" height="250">
 
-
-
 <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Aliens!%F0%9F%91%8B" alt="Typing SVG" />
