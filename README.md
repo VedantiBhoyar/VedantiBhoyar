@@ -1,5 +1,6 @@
 
-<img src="https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/38110dcd-4477-4ffc-b5a8-423a93bacd9f"  width="1200" height="250">
+
+<img src="https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/b465552c-d36b-4ab4-a087-4a662359cef9"  width="1200" height="250">
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
