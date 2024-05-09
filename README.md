@@ -11,7 +11,7 @@
 <h3 align="center">Welcome to my GitHub! 🎓👋</h3>
 
 <p align="center">
-  I'm a passionate and ambitious computer science graduate, eager to make a mark in the world of software development. Proficient in Java and Android, I've honed my skills through academic projects and personal endeavors. As I embark on my professional journey, I'm actively seeking exciting opportunities to contribute my expertise and collaborate on innovative projects. Let's connect and create something awesome together! 🚀💻 #Java #Android #SoftwareDeveloper #OpenToWork
+I'm a passionate and ambitious computer science graduate, currently immersed in the dynamic world of Node.js, JavaScript, TypeScript, SQL, Jenkins, and Postman. My journey into software development began with Java and Android, where I've cultivated a strong foundation through academic projects and personal endeavors. Now, as I continue to expand my horizons, I'm eagerly seeking opportunities to apply my versatile skill set to innovative projects. Let's connect and together craft something truly exceptional! 🚀💻 #Nodejs #JavaScript #TypeScript #SQL #Jenkins #Postman #OpenToWork
 </p>
 
 <p align="center">
@@ -27,8 +27,8 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently looking for opportunities in Software Development / Java Development / Android Development
-- 🌱 I’m currently learning Android App Development
+- 🔭 I’m currently looking for opportunities in Software Development / Node.js Development / JavaScript Development
+- 🌱 I’m currently learning Node.js Development
 - 🔭 I’m currently working on Competitive Programming
 - 🎯 Goal: To be a better Developer
 - 💌 Fun Fact: I Love To Travel & Explore New Places
@@ -38,13 +38,18 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 </p>
 
