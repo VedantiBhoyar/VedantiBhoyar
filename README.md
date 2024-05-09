@@ -40,7 +40,10 @@ I'm a passionate and ambitious computer science graduate, currently immersed in 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; padding: 20px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 10px; margin: 20px auto; max-width: 800px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="margin: 10px; width: 40px; height: 40px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="margin: 10px; width: 40px; height: 40px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px;"> <!-- Corrected Node.js icon -->
+  <div style="position: relative;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 12px;">Node.js</div>
+  </div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" style="margin: 10px; width: 40px; height: 40px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" style="margin: 10px; width: 40px; height: 40px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" style="margin: 10px; width: 40px; height: 40px;">
