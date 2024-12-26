@@ -11,16 +11,17 @@
 <h3 align="center">Welcome to my GitHub! 🎓👋</h3>
 
 <p align="center">
-  I’m Vedanti , a Node.js Developer with 1 year of experience specializing in Node.js, TypeScript, and REST APIs. Currently working at Dwarpaal, I focus on building scalable backend solutions and optimizing workflows using tools like Jenkins, GitHub, MySQL, Postman, and VS Code.
-
- I have hands-on experience with Express.js for developing robust APIs, and I am well-versed in continuous integration and delivery (CI/CD) processes, ensuring fast and efficient deployment pipelines. My work is 
- driven by a passion for clean, maintainable code and solving complex problems with scalable solutions.
-
- I am constantly enhancing my skill set and am eager to take on challenging opportunities where I can make a significant impact, grow technically, and contribute to the success of innovative projects.
-
- #Nodejs #JavaScript #TypeScript #SQL #Jenkins #Postman #OpenToWork🚀💻
+  I’m Vedanti, a Node.js Developer with 1 year of experience specializing in Node.js, TypeScript, and REST APIs. Currently working at Dwarpaal, I focus on building scalable backend solutions and optimizing workflows using tools like Jenkins, GitHub, MySQL, Postman, and VS Code.
 </p>
-
+<p align="center">
+  I have hands-on experience with Express.js for developing robust APIs, and I am well-versed in continuous integration and delivery (CI/CD) processes, ensuring fast and efficient deployment pipelines. My work is driven by a passion for clean, maintainable code and solving complex problems with scalable solutions.
+</p>
+<p align="center">
+  I am constantly enhancing my skill set and am eager to take on challenging opportunities where I can make a significant impact, grow technically, and contribute to the success of innovative projects.
+</p>
+<p align="center">
+  <strong>#Nodejs #JavaScript #TypeScript #SQL #Jenkins #Postman #OpenToWork 🚀💻</strong>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/vedanti-bhoyar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
