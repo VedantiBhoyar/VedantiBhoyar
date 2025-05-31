@@ -1,6 +1,4 @@
-
-
-<img src="https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/b465552c-d36b-4ab4-a087-4a662359cef9"  width="1200" height="250">
+<img src="https://github.com/VedantiBhoyar/VedantiBhoyar/assets/71519458/b465552c-d36b-4ab4-a087-4a662359cef9" width="1200" height="250" alt="Banner" />
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,34 +6,78 @@
   </a>
 </h2>
 
-<h3 align="center">Welcome to my GitHub! 🎓👋</h3>
+<h3 align="center">👋 Welcome to My GitHub Profile 🎓</h3>
 
 <p align="center">
- As a Node.js Developer with 1.5 year of professional experience, I specialize in crafting robust backend systems using Node.js, TypeScript, and Express.js, with a strong focus on RESTful API development. I design and optimize scalable backend solutions while leveraging tools like MySQL, Postman, VS Code, and GitHub to deliver efficient, maintainable code.
-
-What I Deliver:
-✅ Backend Development: Proven experience building high-performance REST APIs with Node.js, Express.js, and TypeScript, adhering to clean code principles.
-✅ Database & Testing: Hands-on expertise in MySQL for structured data management and Postman for API testing and validation.
-✅ Workflow Efficiency: Streamlined development processes using GitHub for version control and VS Code for efficient debugging and code maintenance.
-
-Technical Expertise:
-
-Languages: Node.js, TypeScript, JavaScript
-
-Frameworks: Express.js, RESTful API Design
-
-Databases: MySQL
-
-Tools: Postman, VS Code, GitHub, Putty, Dolphin-Scheduler
-
-I’m passionate about solving complex technical challenges and thrive in environments that prioritize scalable architecture and innovation. Currently seeking opportunities to:
-🔹 Contribute my backend development expertise to teams building impactful, user-centric solutions.
-🔹 Grow as a developer by tackling challenging projects with modern tools and best practices.
-🔹 Collaborate with engineers to transform ideas into robust, maintainable systems.
-
-Let’s Connect!
-Open to roles that value precision, problem-solving, and a dedication to clean code. Reach out if you’re looking for a driven developer ready to deliver results!
+  I'm a passionate <strong>Node.js Developer</strong> with <strong>1.5 years of professional experience</strong>, specializing in building robust, scalable backend systems using <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>Express.js</strong>. I thrive on solving complex problems and writing clean, maintainable code.
 </p>
+
+---
+
+### 🚀 What I Do:
+
+✅ **Backend Development**  
+Crafting performant REST APIs using Node.js, Express.js, and TypeScript, following clean code and scalable architecture principles.
+
+✅ **Database & Testing**  
+Proficient in MySQL for structured data handling and Postman for API testing and validation.
+
+✅ **Workflow Optimization**  
+Using GitHub for version control and VS Code for efficient debugging and development.
+
+---
+
+### 🧠 Technical Skills
+
+**Languages**:  
+`JavaScript`, `TypeScript`, `Node.js`, `Java (Basics)`
+
+**Frameworks & Libraries**:  
+`Express.js`, `REST API`
+
+**Databases & Tools**:  
+`MySQL`, `Postman`, `VS Code`, `GitHub`, `Jenkins`, `Kubernetes`, `PuTTY`, `Dolphin Scheduler`
+
+---
+
+### 🌟 About Me
+
+- 🔭 Currently seeking opportunities in **Backend Development / Node.js Development / JavaScript Development**
+- 🌱 Focused on mastering advanced **Node.js** and **system design**
+- 💡 Exploring **competitive programming** to improve problem-solving
+- 🎯 **Goal**: Grow as a full-stack developer and contribute to innovative, impactful products
+- ✈️ **Fun Fact**: I love to travel and explore new places!
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantibhoyar&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantibhoyar&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantibhoyar&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vedanti-bhoyar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -43,71 +85,4 @@ Open to roles that value precision, problem-solving, and a dedication to clean c
   <a href="mailto:bhoyar.veda@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
----
-
-<h3 align="left">About Me:</h3>
-
-- 🔭 I’m currently looking for opportunities in Software Development / Node.js Development / JavaScript Development
-- 🌱 I’m currently learning Node.js Development
-- 🔭 I’m currently working on Competitive Programming
-- 🎯 Goal: To be a better Developer
-- 💌 Fun Fact: I Love To Travel & Explore New Places
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
-</p>
-
----
-
-<h3 align="left">Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantibhoyar&show_icons=true&theme=dark&locale=en" alt="vedantibhoyar" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantibhoyar&theme=dark" alt="vedantibhoyar" />
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/vedanti-bhoyar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedanti-bhoyar" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/vedanti.bhoyar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedanti.bhoyar" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/vedanti.bhoyar.33" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vedanti.bhoyar.33" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/bhoyar_veda?hr_r=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhoyar_veda" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/vedantibhoyar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantibhoyar" height="30" width="40" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=vedantibhoyar&label=Profile%20views&color=0e75b6&style=flat-square" alt="vedantibhoyar" />
 </p>
