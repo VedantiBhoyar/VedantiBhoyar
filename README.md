@@ -11,16 +11,30 @@
 <h3 align="center">Welcome to my GitHub! 🎓👋</h3>
 
 <p align="center">
-  I’m Vedanti, a Node.js Developer with 1 year of experience specializing in Node.js, TypeScript, and REST APIs. Currently working at Dwarpaal, I focus on building scalable backend solutions and optimizing workflows using tools like Jenkins, GitHub, MySQL, Postman, and VS Code.
-</p>
-<p align="center">
-  I have hands-on experience with Express.js for developing robust APIs, and I am well-versed in continuous integration and delivery (CI/CD) processes, ensuring fast and efficient deployment pipelines. My work is driven by a passion for clean, maintainable code and solving complex problems with scalable solutions.
-</p>
-<p align="center">
-  I am constantly enhancing my skill set and am eager to take on challenging opportunities where I can make a significant impact, grow technically, and contribute to the success of innovative projects.
-</p>
-<p align="center">
-  <strong>#Nodejs #JavaScript #TypeScript #SQL #Kubernetes #Jenkins #Postman #OpenToWork 🚀💻</strong>
+ As a Node.js Developer with 1.5 year of professional experience, I specialize in crafting robust backend systems using Node.js, TypeScript, and Express.js, with a strong focus on RESTful API development. I design and optimize scalable backend solutions while leveraging tools like MySQL, Postman, VS Code, and GitHub to deliver efficient, maintainable code.
+
+What I Deliver:
+✅ Backend Development: Proven experience building high-performance REST APIs with Node.js, Express.js, and TypeScript, adhering to clean code principles.
+✅ Database & Testing: Hands-on expertise in MySQL for structured data management and Postman for API testing and validation.
+✅ Workflow Efficiency: Streamlined development processes using GitHub for version control and VS Code for efficient debugging and code maintenance.
+
+Technical Expertise:
+
+Languages: Node.js, TypeScript, JavaScript
+
+Frameworks: Express.js, RESTful API Design
+
+Databases: MySQL
+
+Tools: Postman, VS Code, GitHub, Putty, Dolphin-Scheduler
+
+I’m passionate about solving complex technical challenges and thrive in environments that prioritize scalable architecture and innovation. Currently seeking opportunities to:
+🔹 Contribute my backend development expertise to teams building impactful, user-centric solutions.
+🔹 Grow as a developer by tackling challenging projects with modern tools and best practices.
+🔹 Collaborate with engineers to transform ideas into robust, maintainable systems.
+
+Let’s Connect!
+Open to roles that value precision, problem-solving, and a dedication to clean code. Reach out if you’re looking for a driven developer ready to deliver results!
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/vedanti-bhoyar/" target="_blank">
