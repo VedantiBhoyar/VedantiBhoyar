@@ -2,51 +2,59 @@
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Aliens!%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </h2>
 
 <h3 align="center">👋 Welcome to My GitHub Profile 🎓</h3>
 
 <p align="center">
-  I'm a passionate <strong>Node.js Developer</strong> with <strong>1.5 years of professional experience</strong>, specializing in building robust, scalable backend systems using <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>Express.js</strong>. I thrive on solving complex problems and writing clean, maintainable code.
+  I'm a <strong>Node.js Developer</strong> with <strong>1.6 years of professional experience</strong>, specializing in building scalable and high-performance backend systems using <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>Express.js</strong>.  
+  Currently, I’m seeking opportunities in **Backend / Node.js Development** and actively learning <strong>Python</strong> to expand my skillset.
 </p>
 
 ---
 
-### 🚀 What I Do:
+### 🚀 What I Do
 
 ✅ **Backend Development**  
-Crafting performant REST APIs using Node.js, Express.js, and TypeScript, following clean code and scalable architecture principles.
+- Designing and developing RESTful APIs with Node.js, Express.js, and TypeScript  
+- Implementing clean, maintainable, and scalable architectures  
 
-✅ **Database & Testing**  
-Proficient in MySQL for structured data handling and Postman for API testing and validation.
+✅ **Database & Performance**  
+- MySQL expertise with query optimization and efficient schema design  
+- Redis for caching and improving system performance  
 
-✅ **Workflow Optimization**  
-Using GitHub for version control and VS Code for efficient debugging and development.
+✅ **DevOps & CI/CD**  
+- Hands-on experience with Jenkins pipelines, Docker, and Kubernetes (Rancher)  
+- Automated deployments and monitoring with logging tools like Winston  
+
+✅ **Problem-Solving**  
+- Strong knowledge of Data Structures & Algorithms  
+- Focused on writing efficient and bug-free code  
 
 ---
 
 ### 🧠 Technical Skills
 
 **Languages**:  
-`JavaScript`, `TypeScript`, `Node.js`, `Java (Basics)`
+`JavaScript`, `TypeScript`, `Node.js`, `Python (Learning)`, `Java (Basics)`
 
 **Frameworks & Libraries**:  
 `Express.js`, `REST API`
 
 **Databases & Tools**:  
-`MySQL`, `Postman`, `VS Code`, `GitHub`, `Jenkins`, `Kubernetes`, `PuTTY`, `Dolphin Scheduler`
+`MySQL`, `Redis`, `Postman`, `VS Code`, `GitHub`, `Jenkins`, `Kubernetes`, `Dolphin Scheduler`, `PuTTY`
 
 ---
 
 ### 🌟 About Me
 
-- 🔭 Currently seeking opportunities in **Backend Development / Node.js Development / JavaScript Development**
-- 🌱 Focused on mastering advanced **Node.js** and **system design**
-- 💡 Exploring **competitive programming** to improve problem-solving
-- 🎯 **Goal**: Grow as a full-stack developer and contribute to innovative, impactful products
-- ✈️ **Fun Fact**: I love to travel and explore new places!
+- 🔭 Actively looking for roles in **Backend / Node.js Development**  
+- 🌱 Learning **Python** to strengthen backend versatility and explore data engineering  
+- 💡 Interested in **system design, scalability, and cloud-native applications**  
+- 🎯 Goal: Grow into a **Full-Stack Developer** and contribute to impactful products  
+- ✈️ Fun fact: I enjoy traveling and exploring new cultures & places  
 
 ---
 
@@ -58,6 +66,8 @@ Using GitHub for version control and VS Code for efficient debugging and develop
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
