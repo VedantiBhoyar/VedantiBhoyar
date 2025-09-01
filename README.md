@@ -9,7 +9,7 @@
 <h3 align="center">👋 Welcome to My GitHub Profile 🎓</h3>
 
 <p align="center">
-  I'm a <strong>Node.js Developer</strong> with <strong>1.6 years of professional experience</strong>, specializing in building scalable and high-performance backend systems using <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>Express.js</strong>.  
+  I'm a <strong>Node.js Developer</strong> with <strong>1.9 years of professional experience</strong>, specializing in building scalable and high-performance backend systems using <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>Express.js</strong>.  
   Currently, I’m seeking opportunities in **Backend / Node.js Development** and actively learning <strong>Python</strong> to expand my skillset.
 </p>
 
